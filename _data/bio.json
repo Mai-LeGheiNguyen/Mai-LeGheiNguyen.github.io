@@ -1,18 +1,18 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Mai-Le Ghei Nguyen",
     "label": "Student",
-    "picture": "https://github.com/kambergjohnson.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
-    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "picture": "https://github.com/Mai-LeGheiNguyen.png",
+    "email": "mlgpn@hawaii.edu",
+    "phone": "808-330-4713",
+    "website": "https://Mai-LeGheiNguyen.github.io",
+    "summary": "I am studying for a B.S. in Accounting and Financing in the Department of Business in Shidler at the University of Hawaii. I expect to graduate in Spring, 2025.",
+    "location": { "address": "98-175 Kuleana Rd", "postalCode": "96782", "city": "Pearl City", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
-      { "network": "github", "username": "mmaluhia", "url": "http://github.com/changeme" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" },
-      { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
-      { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
+      { "network": "github", "username": "Mai-LeGheiNguyen", "url": "http://github.com/Mai-LeGheiNguyen" },
+      { "network": "linkedin", "username": "Mai-Le Ghei Nguyen", "url": "https://www.linkedin.com/in/mai-le-ghei-nguyen/" },
+      { "network": "twitter", "username": "RaxulSilex", "url": "http://twitter.com/RaxulSilex" },
+      { "network": "instagram", "username": "Melodic_Trip", "url": "http://instagram.com/melodic_trip/" }
     ]
   },
   "interests": [
