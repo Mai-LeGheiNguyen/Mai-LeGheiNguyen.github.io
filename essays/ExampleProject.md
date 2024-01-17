@@ -45,7 +45,7 @@ Valve Corporation has been around for years, focusing on a consumer base online.
 
 I have used the Leeward databases to research the topic of leasing versus buying. To be specific, I used an encyclopedia database to understand what leasing is. I’ve also used the statistics database to obtain information on what components are currently popular. Lastly, I used periodic databases like ProQuest to analyze the benefits and drawbacks of leasing and buying.
 
-*2.3 Scope**
+**2.3 Scope**
 
 The report includes information about buying property and details about leasing property, including tax benefits and rates. 
 
@@ -83,5 +83,7 @@ After analyzing the findings and conclusions, I present some recommendations:
 **5. Conclusion**
 
 Valve Corporation has been looking into either leasing or buying computers. Buying computers is beneficial in the long run but negatively impacts working capital. Leasing comes with multiple benefits, such as tax advantages and fewer expenses, but doesn’t build equity. Valve Company should lease the majority of the computers they wish to obtain and buy the rest for teams that would use the computers for experimentation in the long run. 
+
+**6. Sources**
 
 
