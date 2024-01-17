@@ -19,7 +19,8 @@
     { "name": "Gaming" },
     { "name": "Sleeping" },
     { "name": "Computing" },
-    { "name": "Organization" },
+    { "name": "Organizing" },
+    { "name": "Assembling"}
   ],
   "skills": [
     {
