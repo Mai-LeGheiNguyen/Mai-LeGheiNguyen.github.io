@@ -9,8 +9,6 @@ labels:
   - MIS
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/difficulty/degree_difficulty.jpg">
-
 **The Future's Usage of Technology**
 
 We're seeing technology being used everywhere. We use technology to find our way around places. We use technology to search for answers for homework or even tests. We use technology daily, from social media to playing video games like Valorant or Minecraft. Yet, I'm (assumingly) one of the many people who **don't know how technology works**. It's crazy. I don't know how my computers run the games that I play on daily, or how I'm able to access the files I create on one laptop to the other. This is one of the reasons why I've decided to take ITM 352.
