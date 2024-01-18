@@ -16,10 +16,10 @@
     ]
   },
   "interests": [
-    { "name": "Assembling Computers" },
-    { "name": "Gaming" },
-    { "name": "Computing" },
-    { "name": "Organizing" },
+    { "name": "Assembling Computers"},
+    { "name": "Gaming"},
+    { "name": "Computing"},
+    { "name": "Organizing"},
     { "name": "Researching"}
   ],
   "skills": [
