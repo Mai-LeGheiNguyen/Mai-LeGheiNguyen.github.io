@@ -86,4 +86,9 @@ Valve Corporation has been looking into either leasing or buying computers. Buyi
 
 **6. Sources**
 
-
+Alsop, Thomas. “Computer components - statistics & facts.” Statista. 4 Nov. 2023. Computer components - statistics & facts | Statista (hawaii.edu). Accessed 18 Apr. 2023.
+Brady, Chris. “Many Factors Influence Leasing, Buying.” Fleet Equipment, vol. 33, no. 2, Feb. 2007, p. 14. EBSCOhost, search.ebscohost.com/login.aspx?direct=true&db=f6h&AN=24176757.
+"Business finance." Britannica Academic, Encyclopædia Britannica, 24 Mar. 2023. academic-eb-com.lccproxy.lib.hawaii.edu/levels/collegiate/article/business-finance/106110#21800.toc. Accessed 18 Apr. 2023.
+Coker, Craig. “Equipment Purchasing And Leasing.” BioCycle, vol. 48, no. 3, Mar. 2007, pp. 18–21. EBSCOhost, search.ebscohost.com/login.aspx?direct=true&db=f6h&AN=24621578.
+"Lease." Britannica Academic, Encyclopædia Britannica, 20 Jul. 1998. academic-eb-com.lccproxy.lib.hawaii.edu/levels/collegiate/article/lease/47531. Accessed 23 Apr. 2023.
+Musumeci, Jim, & O’Brien, Thomas. "Lease vs buy: clarifying the impact of tax and borrowing rates." Managerial Finance, vol. 45, no. 5, 2019, pp. 686-696. ProQuest, https://lccproxy.lib.hawaii.edu/login?url=https://www.proquest.com/scholarly-journals/lease-vs-buy-clarifying-impact-tax-borrowing/docview/2225610635/se-2, doi:https://doi.org/10.1108/MF-09-2018-0448. 
