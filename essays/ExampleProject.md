@@ -15,7 +15,7 @@ labels:
 
 *Purpose and Research*
 
-Valve Corporation is a company that has been developing hardware and software for years, using computers that have been bought years ago to aid in software and hardware development. Our company has decided to either lease or buy new computers as the old computers are outdated. The purpose of this report is to go over the benefits and drawbacks of leasing and buying computers and to recommend plans to balance the benefits and drawbacks of leasing and buying computers. 
+Valve Corporation is a company that has been developing hardware and software for years, using computers that have been bought years ago to aid in software and hardware development. Let's think about if the company has decided to either lease or buy new computers as the old computers are outdated. The purpose of this report is to go over the benefits and drawbacks of leasing and buying computers and to recommend plans to balance the benefits and drawbacks of leasing and buying computers. 
 
 Throughout this report, I will be using sources that I have researched from the Leeward Library databases to find popular computer components and differences in leasing versus buying. To be specific, I researched within the Britannica, ProQuest, and Statista databases.
 
