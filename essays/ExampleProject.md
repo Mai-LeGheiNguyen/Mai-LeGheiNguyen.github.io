@@ -4,7 +4,7 @@ type: essay
 title: "Differences in Leasing and Buying Computer Hardware"
 # All dates must be YYYY-MM-DD format!
 date: 2023-04-25
-published: true
+published: false
 labels:
   - Hardware
 ---
