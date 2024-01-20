@@ -7,7 +7,7 @@
     "phone": "808-330-4713",
     "website": "https://Mai-LeGheiNguyen.github.io",
     "summary": "I am studying for a B.S. in Accounting and Financing in the Department of Business in Shidler at the University of Hawaii. I expect to graduate in Spring, 2025.",
-    "location": { "address": "98-175 Kuleana Rd", "postalCode": "96782", "city": "Pearl City", "countryCode": "USA", "region": "Hawaii" },
+    "location": { "address": "", "postalCode": "96782", "city": "Pearl City", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "Mai-LeGheiNguyen", "url": "http://github.com/Mai-LeGheiNguyen" },
       { "network": "linkedin", "username": "Mai-Le Ghei Nguyen", "url": "https://www.linkedin.com/in/mai-le-ghei-nguyen/" },
@@ -16,11 +16,11 @@
     ]
   },
   "Interests": [
-    { "name": "Assembling Computers"},
-    { "name": "Gaming"},
-    { "name": "Computing"},
-    { "name": "Organizing"},
-    { "name": "Researching"}
+    { "name": "Assembling Computers" },
+    { "name": "Gaming" },
+    { "name": "Computing" },
+    { "name": "Organizing" },
+    { "name": "Researching" }
   ],
   "skills": [
     {
