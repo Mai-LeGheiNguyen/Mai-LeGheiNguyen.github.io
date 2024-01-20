@@ -15,8 +15,12 @@
       { "network": "instagram", "username": "Melodic_Trip", "url": "http://instagram.com/melodic_trip" }
     ]
   },
-  "Interests": [
-    { "keywords": "Assembling Computers", "Gaming", "Computing", "Organizing", "Researching"}
+    "interests": [
+    { "name": "Assembling" },
+    { "name": "Gaming" },
+    { "name": "Computing" },
+    { "name": "Organizing" },
+    { "name": "Researching" }
   ],
   "skills": [
     {
