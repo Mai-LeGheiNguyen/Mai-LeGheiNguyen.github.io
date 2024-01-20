@@ -16,11 +16,7 @@
     ]
   },
   "Interests": [
-    { "name": "Assembling Computers" },
-    { "name": "Gaming" },
-    { "name": "Computing" },
-    { "name": "Organizing" },
-    { "name": "Researching" }
+    { "keywords": "Assembling Computers", "Gaming", "Computing", "Organizing", "Researching"}
   ],
   "skills": [
     {
