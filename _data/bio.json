@@ -10,9 +10,9 @@
     "location": { "address": "", "postalCode": "96782", "city": "Pearl City", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "Mai-LeGheiNguyen", "url": "http://github.com/Mai-LeGheiNguyen" },
-      { "network": "linkedin", "username": "Mai-Le Ghei Nguyen", "url": "https://www.linkedin.com/in/mai-le-ghei-nguyen/" },
+      { "network": "linkedin", "username": "Mai-Le Ghei Nguyen", "url": "https://www.linkedin.com/in/mai-le-ghei-nguyen" },
       { "network": "twitter", "username": "RaxulSilex", "url": "http://twitter.com/RaxulSilex" },
-      { "network": "instagram", "username": "Melodic_Trip", "url": "http://instagram.com/melodic_trip/" }
+      { "network": "instagram", "username": "Melodic_Trip", "url": "http://instagram.com/melodic_trip" }
     ]
   },
   "Interests": [
@@ -35,7 +35,7 @@
   "education": [
     {
       "institution": "University of Hawaii at Manoa, Honolulu, HI",
-      "area": "Business (expected Spring 2025)",
+      "area": "Business (expected Spring, 2025)",
       "studyType": "B.B.A. in Accounting and Financing",
       "startDate": "2021-09-01",
       "endDate": "Present",
