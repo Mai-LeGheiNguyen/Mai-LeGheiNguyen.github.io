@@ -4,7 +4,7 @@ type: project
 image: img/Coding.jpg
 title: "MIS Project"
 date: 2024
-published: true
+published: false
 labels:
   - Management Information Technology
   - HTML
