@@ -36,11 +36,9 @@
     {
       "institution": "University of Hawaii at Manoa, Honolulu, HI",
       "area": "Business (expected Spring, 2025)",
-      "studyType": "B.B.A. in Accounting and Financing",
+      "studyType": "B.B.A. in Management Information Systems",
       "startDate": "2021-09-01",
-      "endDate": "Present",
-      "courses": [
-      ]
+      "endDate": "Present"
     }
   ],
   "work": [
@@ -58,14 +56,13 @@
       ]
     }
   ],
-  "awards": [
+  "Certification": [
     {
-      "title": "Dean's List",
-      "date": "2022-Present",
-      "awarder": "University of Hawaii",
-      "summary": "The Dean’s List recognizes students with a superior academic record (a minimum current grade point average of 3.5 for 12 or more credits of academic coursework)."
+      "Name": "CompTIA Security+",
+      "date": "December 2nd, 2024",
+      "Verification Code": "Y00Q0DV5QE1Q10C8"
     }
-  ],
+  ]
   "references": [
     {
       "name": "Available upon request"
